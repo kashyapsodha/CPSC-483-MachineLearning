@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Mar 17 10:13:55 2018
-
-@author: Rishabh Sharma
-"""
 
 import pandas as pd #Pands is the library for loading and working with datafiles.
 import numpy as np # To perform matrix operations

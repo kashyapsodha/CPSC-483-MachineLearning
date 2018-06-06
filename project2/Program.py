@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Apr 26 01:05:19 2018
-
-@author: Rishabh Sharma
-"""
 
 import numpy as np
 from sklearn import tree 

@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Mar 30 19:48:34 2018
-
-@author: Rishabh Sharma
-"""
 
 # CPSC 483_Machine_Learning. Neural Network Implementation.
 import keras
